@@ -1,0 +1,11 @@
+.settings
+Debug
+*.o
+*.d
+*.*~
+*.~lock.*
+*.map
+*.elf
+*.hex
+.project
+.cproject
